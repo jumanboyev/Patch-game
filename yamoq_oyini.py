@@ -18,7 +18,7 @@ class Window(QWidget):
         self.v_lay= QVBoxLayout()
 
 
-        self.btn1=QPushButton("1")
+        self.btn1=QPushButton("1"
         self.btn2=QPushButton("2")
         self.btn3=QPushButton("3")
         self.btn4=QPushButton("4")
